@@ -33,7 +33,7 @@
   },
   "bugs": "https://github.com/nestjsplus/massive",
   "peerDependencies": {
-    "@nestjs/common": "^6.0.0"
+    "@nestjs/common": "^9.3.0"
   },
   "dependencies": {
     "@types/massive": "^5.4.3",
